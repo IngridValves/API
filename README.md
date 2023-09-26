@@ -4,8 +4,9 @@ A API de Endereços foi implementada na linguagem PHP.
 Sua finalizade é atualizar informações das empresas já cadastradas na base de dados, buscando 
 informações do endereço da empresa através da API ViaCEP "https://viacep.com.br/".
  
-Os parametros CNPJ e CEP, são passados na url http://apiendereco/api/view/index.php?cnpj= &cep=,
-como exemplificado na imagem abaixo. 
+Executando a aplicação localmente, os parametros CNPJ e CEP, são passados na url 
+Exemplo:
+(http://localhost:4000/apiendereco/api/view/index.php?cnpj=14407527000141&cep=69059690)
 
 ![image](https://github.com/IngridValves/API/assets/131462285/c487e744-798b-4420-abad-1ab5228051df)
 
